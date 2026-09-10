@@ -9,7 +9,7 @@
 下载或克隆仓库后，将本目录放进 Codex 的 skills 目录：
 
 ```bash
-git clone https://github.com/<你的账号>/juguang-note-creative-analysis.git
+git clone https://github.com/<Shanmeizeng-bot>/juguang-note-creative-analysis.git
 mkdir -p ~/.codex/skills
 cp -R juguang-note-creative-analysis ~/.codex/skills/
 ```
