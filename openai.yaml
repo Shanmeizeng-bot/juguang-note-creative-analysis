@@ -1,7 +1,7 @@
 interface:
   display_name: "聚光笔记创意分析"
   short_description: "将投放原始数据生成笔记、创意与投放诊断工作簿"
-  default_prompt: "使用 $juguang-note-creative-analysis，根据我提供的投放原始数据生成笔记与创意分析工作簿。"
+  default_prompt: "使用 $juguang-note-creative-analysis，根据我提供的投放原始数据生成笔记与创意分析工作簿；请先确认供应商和分析日期范围。"
 
 policy:
   allow_implicit_invocation: true
