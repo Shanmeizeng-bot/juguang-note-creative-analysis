@@ -25,7 +25,7 @@ For every accessible note link, the skill first opens the page and uses its visi
 After downloading or cloning the repository, place this folder in Codex’s skills directory:
 
 ```bash
-git clone https://github.com/<shanmeizeng-bot>/juguang-note-creative-analysis.git
+git clone https://github.com/shanmeizeng-bot/juguang-note-creative-analysis.git
 mkdir -p ~/.codex/skills
 cp -R juguang-note-creative-analysis ~/.codex/skills/
 ```
